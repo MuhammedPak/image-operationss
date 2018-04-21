@@ -1,1 +1,1 @@
-# -mage-operationss
+# -image-operationss
